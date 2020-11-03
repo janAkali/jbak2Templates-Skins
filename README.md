@@ -2,6 +2,7 @@
 My custom templates and skins for jbak2 keyboard
 
 How to install:
+
 *Templates*:
 1. put {file_name}.xml in folder /sdcard/jbak2Keyboard/keyboards/
 2. open jbak2Keyboard app
