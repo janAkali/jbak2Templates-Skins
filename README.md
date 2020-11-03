@@ -1,6 +1,8 @@
 # jbak2Templates-Skins
 My custom templates and skins for jbak2 keyboard
 
+
+
 How to install:
 
 *Templates*:
@@ -14,3 +16,6 @@ How to install:
 2. open jbak2Keyboard app
 3. go to Appearance -> Skins
 4. press ">>" until you see your skin or just long press ">>" and pick it by name
+
+En_linux_term.xml
+![IMG_20200806_084950](https://user-images.githubusercontent.com/60652075/97947703-0c7bbd00-1dc9-11eb-8027-60e40872ca67.jpg)
