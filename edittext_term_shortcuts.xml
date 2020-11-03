@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="20.0%p" >
+ <Row android:keyHeight="70%p" >
+     <Key android:template="#!/data/data/com.termux/files/usr/bin/" android:keyLabel="#!/sh" />
+     <Key android:template="PATH=$PATH:/data/data/com.termux/files/usr/bin" android:keyLabel="$PATH=" />
+     <Key android:template="/data/data/com.termux/files/usr/libexec/termux-api" android:keyLabel="T-api" />
+     <Key android:template="/data/data/com.termux/files/home" android:keyLabel="T-path" />
+  <Key android:template="exit $codes[-5033,-5052,-5037,-5048,10]" android:keyLabel="exit" />
+  </Row>
+ <Row>
+  <Key android:template="$codes[-5113+-5008]" android:keyLabel="-sess" />
+  <Key android:template="$codes[-5113+-5009]" android:keyLabel="+sess" />
+  <Key android:template="$codes[-5113+-5048]" android:keyLabel="newSess" />
+  <Key android:template="$codes[-5113+-5031]" android:keyLabel="INT" />
+  <Key android:template="$codes[-5113+-5032]" android:keyLabel="TERM" />
+  </Row>
+ <Row>
+  <Key android:template="" android:keyLabel="" />
+  <Key android:template="" android:keyLabel="" />
+  <Key android:template="" android:keyLabel="" />
+  <Key android:template="" android:keyLabel="" />
+  <Key android:template="" android:keyLabel="" />
+  </Row>
+ <Row>
+  <Key android:template="" android:keyLabel="" />
+  <Key android:template="" android:keyLabel="" />
+  <Key android:template="" android:keyLabel="" />
+  <Key android:template="" android:keyLabel="" />
+  <Key android:template="" android:keyLabel="" />
+  </Row>
+ <Row>
+  <Key android:template="$codes[-5059+-5074,-5051,10]" android:keyLabel=":w" />
+  <Key android:template="$codes[-5059+-5074,-5045,10]" android:keyLabel=":q" />
+  <Key android:template="$codes[-5059+-5074,-5045,-5059+-5008,10]" android:keyLabel=":q!" />
+  <Key android:template="$codes[-5059+-5074,-5059+-5051,10]" android:keyLabel=":W" />
+  <Key android:template="$codes[-5059+-5074,-5051,-5045,10]" android:keyLabel=":wq" />
+  </Row>
+ <Row android:keyHeight="80%p" >
+  <Key android:codes="-2"  android:keyLabel="opt\n kbd" android:keyWidth="12.2%p" />
+  <Key android:codes="-20" android:keyLabel="Ru" android:keyWidth="12.2%p" />
+  <Key android:codes="-5021" android:keyLabel="←" android:keyWidth="12.2%p" android:isRepeatable="true" />
+  <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="26.4%p" android:isRepeatable="true" />
+  <Key android:codes="-5022" android:keyLabel="→" android:keyWidth="12.2%p" android:isRepeatable="true" />
+  <Key android:codes="-5112" android:keyLabel="Del" android:keyWidth="12.2%p" android:isRepeatable="true" />
+  <Key android:codes="-5122" android:longCode="-5123" android:keyLabel="End\nHome" android:keyWidth="12.2%p" />
+ </Row>
+</Keyboard>
