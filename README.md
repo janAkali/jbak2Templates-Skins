@@ -6,7 +6,7 @@ How to install:
 *Templates*:
 1. put {file_name}.xml in folder /sdcard/jbak2Keyboard/keyboards/
 2. open jbak2Keyboard app
-3. go to Languages and layouts -> press button next to language your layout is using (should be in filename e.g. en/ru/jp)
+3. go to Languages and layouts -> press button next to language/type of layout (should be in filename e.g. en_/ru_/edit_)
 4. press ">>" until you see your layout or just long press ">>" and pick it by name
 
 *Skins*:
