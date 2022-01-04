@@ -39,27 +39,27 @@ TABLE OF CONTENTS:
 
 1) INSTALLATION INSTRUCTIONS AND INITIAL CONFIGURATION
 
-STRING OF CHARACTERS AND WORDS IN AUTOCOMPLETE BY DEFAULT
+###### STRING OF CHARACTERS AND WORDS IN AUTOCOMPLETE BY DEFAULT
 
 2) FREQUENTLY ASKED QUESTIONS AND POSSIBLE PROBLEMS
 
-Frequent questions
-? Swype function and predictive text input
-? Autocomplete string above all windows.
-? DISABLE THE AUTOCOMPLETE BOX
-? AUTOCOMPLETE BOX OR KEYPRESS POPUP NOT TURNING ON AUTOMATICALLY (firmware MIUI)
-? ABOUT SMILEYS AND EMOJIS
-? Button ->D in Autocomplete
+Frequent questions:
+- Swype function and predictive text input
+- Autocomplete string above all windows.
+- DISABLE THE AUTOCOMPLETE BOX
+- AUTOCOMPLETE BOX OR KEYPRESS POPUP NOT TURNING ON AUTOMATICALLY (firmware MIUI)
+- ABOUT SMILEYS AND EMOJIS
+- Button ->D in Autocomplete
 
-Other questions
-? Will the keyboard steal passwords?
-? User dictionary editing
-? Number input
-? Keyboard does not work or disappears in some applications
-? Jbak2 keyboard resets to the stock keyboard after reboot
-? Selective deletion of the clipboard contents
-? Paid version
-? VOICE INPUT.
+Other questions:
+- Will the keyboard steal passwords?
+- User dictionary editing
+- Number input
+- Keyboard does not work or disappears in some applications
+- Jbak2 keyboard resets to the stock keyboard after reboot
+- Selective deletion of the clipboard contents
+- Paid version
+- VOICE INPUT.
 
 3) KEYBOARD CONTROLS AND OTHER SETTINGS
 
@@ -98,7 +98,7 @@ Other questions
 
 --------------------------------------------
 
-###1)INSTALLATION INSTRUCTIONS (standard on all keyboards)
+### 1)INSTALLATION INSTRUCTIONS (standard on all keyboards)
 After installing the keyboard, you need to follow the next steps:
 The first settings item to display will be "Keyboard disabled!". Press, put a checkmark in front of the jbak2 keyboard, and you will see a standard warning about a possible theft of passwords. Press ОK. Press the system Back button.
 You get back again to the program Settings. You can see that the warning message has changed to "Keyboard not active". Click and select the "jbak2 keyboard" input method. 
@@ -108,14 +108,14 @@ Click ОК on the confirmation pop-up about the risk of password theft. In the s
 or
 b) Call the keyboard context menu in any input field, press Input method > Jbak2 Keyboard.
 
-####OBSERVATION
+#### OBSERVATION
 This keyboard can not be transferred to the SD card, otherwise it will behave unpredictably! For example, the keyboard will only be active until you reboot.
 
-####INITIAL CONFIGURATION (you can always change)
+#### INITIAL CONFIGURATION (you can always change)
 It is not obligatory! 
 The keyboard is initially configured as comfortably as possible for the most of android devices.
 
-####SELECT LANGUAGES AND LAYOUTS. Go to Settings > Languages and layouts. Select the language that you need to use (for example, Russian, English and Tatar).
+#### SELECT LANGUAGES AND LAYOUTS. Go to Settings > Languages and layouts. Select the language that you need to use (for example, Russian, English and Tatar).
 On the right side of each language you can find the "Select Layout" button. If you do not find this button, there is only one layout for this language.
 Press the button, Layout pop-up will be displayed.
 Use the right and left arrow buttons to scroll the list of layouts for this language. Select the one you like. Click the Save button .
@@ -124,29 +124,34 @@ Similarly, select a layout for the other mode.
 Press Save, finally.
 
 Scroll down the list of layouts and in the same order select layouts for:
-Character keyboard
-Special character keyboard
-Emoji keyboard
-Numeric keyboard
-Calculator
+- Character keyboard
+- Special character keyboard
+- Emoji keyboard
+- Numeric keyboard
+- Calculator
 
 If you do not like the built-in layouts, you can download the "jbak2layout" application (Settings > Custom layouts) and add layouts from there. There you can also find the Emoji layout.
+
 Or create your own layout (see below in the Unit №4 Custom layout and skin creating).
 
-####KEY SIZE ADJUSTMENT. Go to Settings > Key settings> Key height/portrait mode and Key height/landscape mode.
+#### KEY SIZE ADJUSTMENT. Go to Settings > Key settings> Key height/portrait mode and Key height/landscape mode.
 There are buttons at the top of the window: decrease (press "-") or increase (press "+") the height until the size you want. You will immediately notice how the keyboard height is changing.
+
 If it is necessary, in the same window, you can do key vertical correction for more accurate typing.
 
-####FONT ADJUSTMENT
+#### FONT ADJUSTMENT
 Settings > Appearance > Font. Here, there are separate font settings for letters, additional characters and autocomplete box.
+
 Decrease (-) or increase (+) the size. You can select italic or bold fonts, change the outline.
 
-####THEME (SKIN) SELECTION. Go to Settings > Appearance > Skins.
+#### THEME (SKIN) SELECTION. Go to Settings > Appearance > Skins.
 Scrolling and installation order is similar to that of Layouts.
+
 Additional themes (skins) can be installed by downloading the jbak2skin application(Settings > Appearance > Custom skins).
+
 You can also create your own theme Settings> Appearance> Skin constructor.
 
-####AUTOINPUT/AUTOCOMPLETE ADJUSTMENT. INPUT WITH THE DICTIONARY.
+#### AUTOINPUT/AUTOCOMPLETE ADJUSTMENT. INPUT WITH THE DICTIONARY.
 a) Download the necessary dictionaries going to the keyboard settings.
 The old dictionary download is located: Settings > Autoinput > Old download.
 New download is already located in Settings.
@@ -155,35 +160,47 @@ b) Choose where to display the autocomplete box (Settings > Autoinput >  Autocom
 c) In the same place you can modify the Autocorrect feature, configure case change, inserting/deleting spaces etc.
 d) Turn on the windows (Settings > Appearance):
 Window of the keypress code (green box in Autocomplete).
+
 It shows the keypress code. It is useful for creating your own layout .
+
 When you click on it, the key code will be inserted into the current cursor position, if the cursor is in a word, the word will be replaced.
+
 and
+
 Window of the text length in the input field (green box in Autocomplete)
 
 If the "Learning dictionary" option is enabled, when you click on a word in the Autocomplete box, its frequency of use will be increased by one count. 
+
 That way, over time, (it is different on each device, but certainly not a couple of months) the most common words will appear first.
 
-####OBSERVATION
-This function slows down the keyboard! 
+#### OBSERVATION
+This function slows down the keyboard!
+
 For this reason, it is better to not turn on this feature on low-power devices.
 
-####STRING OF CHARACTERS AND WORDS IN AUTOCOMPLETE BY DEFAULT
+#### STRING OF CHARACTERS AND WORDS IN AUTOCOMPLETE BY DEFAULT
 The default string of characters and words can be specified in Autocomplete: Settings-Autocomplete-Words by default.
+
 In addition to characters and words, the special label formats are supported, allowing a label to be converted into a button, that allows you to execute a keyboard command from the codes available in it or to execute a template specified in this format.
+
 How to do it, see: Settings-Autocomplete-Default String
 
-###2)FREQUENTLY ASKED QUESTIONS AND POSSIBLE PROBLEMS.
+### 2)FREQUENTLY ASKED QUESTIONS AND POSSIBLE PROBLEMS.
 
 > Undo and Redo command of the most recent data entry. 
+
 These commands can work differently, incorrectly or not work at all. The keyboard has nothing to do with it. All depends on input fields where the input is made.
 
 > Swype function and predictive text input.
+
 This keyboard does not support gesture typing (Swype) and will never have it!
 Maybe in some distant future, the Jbak2 keyboard will support predictive input.
 
 > AUTOCOMPLETE STRING ABOVE ALL WINDOWS.
+
 My knowledge is not enough to fix this bug. This bug is from the original version of the program. As far as I can tell, the first developer wrote all correctly, but it was a long time ago. Maybe something changed during this time.
 Obviously, it will be improved over time.
+
 While I have made it possible to hide/display the autocomplete box using the Main menu item.
 You must first enable this menu item in Settings. (It will be displayed only if the Autocomplete box is enabled).
 In addition to the menu item, you can use the "Display the Autocomplete box" gesture. 
@@ -191,15 +208,20 @@ In addition to the menu item, you can use the "Display the Autocomplete box" ges
 The main condition for the correct positioning of the Autocomplete box is that the navigation bar and the status bar stay always on the screen (not hiden).
 
 > DISABLE THE AUTOCOMPLETE BOX
+
 Settings-Autocomplete-Autocomplete box-Disable
 
 > AUTOCOMPLETE BOX OR KEYPRESS POPUP NOT TURNING ON AUTOMATICALLY (firmware MIUI)
+
 Usually, this behavior is common on MIUI ROMs.
+
 Alternatively, try to check (allow) Pop-up permissions (permit drawing over other app) in two places:
+
 1) in the properties of the application itself
 2) Settings-Permissions-Permissions- Enable "Popup Notifications"
 
 > BUTTON ->D IN AUTOCOMPLETE
+
 Sometimes this button ->D appears in autocomplete. What for?
 It appears only in the search input field. For example, in Google Play search, search string on google.com etc.
 What does it mean?
@@ -211,6 +233,7 @@ That is the purpose of this button.
 When you click on it, you activate a forced word output from the dictionary.
 
 > ABOUT SMILEYS AND EMOJIS.
+
 The keyboard supports utf-8 characters (smileys and emojis) (long press on the Enter button launches the Emoji layout) .
 The text smiley layout is on by default. These smileys will work everywhere.
 There is also an emoji layout, but these emojis will not be displayed everywhere, the keyboard does not matter here. It depends of the program (or device, android version, specific place in the program, etc.) where these emojis will be inserted.
@@ -227,34 +250,41 @@ The jbak2keyboard occupies 14 MB RAM (on my phone). It is all because of the pic
 So, in any case, I am not going to include emojis in the program , otherwise it will highly increase the program size, and it is extremely critical for some users.
 
 > WILL THE KEYBOARD STEAL PASSWORDS?
+
 The keyboard will not steal passwords. I guarantee you!
 The warning about a possible theft of passwords can scare an unprepared user. The point is that any keyboard has access to all texts entered using it, including codes and passwords. Accordingly, there is a potential risk of data theft using a third-party keyboard, and Android frankly warns about it.
 Jbak2 keyboard does not remember entered texts. It stores clipboard content for the multi-buffer feature, as well as user templates.
 The fact is that the keyboard has Internet access, this is necessary to display advertisements. So, while downloading advertisements, the program sends confirmation that the package has been received. Besides, the program does not send ANY data.
 
 > User dictionary editing.
+
 The jbak2 keyboard has its own user dictionary which has no relation with the system dictionary.
 It can also be edited. A long press on the \'+\' button in Autocomplete starts editing the dictionary.
 For details click on the question mark button(?) on this screen.
 
 > NUMBER INPUT
+
 (!!!It is no longer used!!!, but it still exists in the program . I just still do not know how to make another thing more beautiful, and the number input has a direct relation with it)
 
 In some programs (for example, in Hangouts, or when entering a phone number in Contacts on some devices) it was impossible to enter numbers when typing a message. I changed the type of number input, then, the number input stopped to work on some devices.
 For the moment I got out from this situation in the following way: I added the "Number input method" item in the Main menu. By default it is equal to 1. If you need to input numbers (for example, in the same Hangouts), call the Menu and click on "Number input method", it will be equal to 2. To get back to the Menu, click on this menu item once again.
 
 > KEYBOARD DOES NOT WORK OR DISAPPEARS IN SOME APPLICATIONS
+
 Fullscreen mode will help you. It works everywhere.
 I have not yet been able to discover the reason.
 To switch to fullscreen mode go to: Settings - Appearance- Fullscreen.
 
 > JBAK2 KEYBOARD RESETS TO THE STOCK KEYBOARD AFTER REBOOT
+
 The reason most likely to be:
 It is a bad idea to install deeply integrated applications on the SD card. Desktop widgets don not work in this case. So, the keyboard will also not work there. 
 When the input tools are initializing at boot time, the system tries to access the keyboard application, and the SD card has not yet been initialized, and the input method resets back to the default one.
 
 > SELECTIVE DELETION OF THE CLIPBOARD CONTENTS
+
 If you want to delete just some entries from the clipboard:
+
 1. Open the clipboard.
 2. Long press on the entry will launch the entry editor, where you will find the Delete button.
 3. After closing the entry editor, the clipboard will be automatically opened and immediately scrolled to the position from where it was launched.
@@ -295,24 +325,33 @@ This keyboard has ARROW keys to move the cursor, HOME and END keys that allowing
 Holding the Enter key will display the Emoji layout.
 
 YOU CAN ALSO CUSTOMIZE:
+
 Gestures
+
 Vibro and Sound
+
 Buttons text size
+
 Font for fullscreen editor
+
 Keypress pop-up parameters
+
 Haptic feedback for short and long press and vibro intervals in in milliseconds
+
 Shift key behavior (for example, you can disable CapsLock mode)
+
 Case changing and inserting spaces when you type
+
 Thanks to the support of third-party keyboards and skins, you can also arrange the keys the way you want or change the keyboard design beyond recognition.
 
-#####INPUT METHOD
+##### INPUT METHOD
 If you need to  switch quickly to another keyboard, In the Main Menu there is a separate item for this purpose. Also, a separate code is available (see jbak2layout for details).
 
-#####COPYING
+##### COPYING
 If nothing is selected, by pressing the Copy button, the keyboard will suggest you to select "Copy all", 
 "Copy word", "Copy paragraph". (If such copying is possible).
 
-#####CALCULATOR. PROGRAMMABLE CALCULATOR
+##### CALCULATOR. PROGRAMMABLE CALCULATOR
 General
 The keyboard has built-in three kinds of calculator: simple, scientific and programmable.
 
@@ -323,15 +362,17 @@ When you exit the calculator layout, it turns off again.
 When you click on the calculator display, its value will be displayed at the current cursor position.  If the cursor is in a word, the word will be replaced by the value from the calculator.
 
 How to enter:
+```
 2+3+4= (=9) (in case of normal input)
 2[B(Up arrow)]3+4+ (=9) (in case of this method)
+```
 
 Such unusual input method was made specially, it is called "reverse Polish notation". 
 In the 90s there was a whole line of programmable calculators (thanks to them, I (and not only me) owe them my profession as a programmer) with this input method (мк61, мк52, мк54, bz34). It was possible create programs on them. There was a whole column in the "Техника-Молодежи" (Youth technology) and other magazines, where different GAME (and not only) programs were described.
 In some calculations the number of keystrokes is decreasing, therefore, for compatibility with the PMC (programmable micro-calculator )series  this input method was selected.
 Notice that it will be impossible to add the common input method with the "=" button (it will be necessary to completely rewrite the calculator program).
 
-#####PROGRAMMABLE CALCULATOR.
+##### PROGRAMMABLE CALCULATOR.
 This calculator allows you to execute various programs. It is an incomplete similarity of the MK61 calculator (produced in 90s) . To learn about the programming principles, read about the MK61 calculator, here it will be tedious and long...  You can find a quick guide for programming on the built-in calculator in the jbak2layout application/
 The number of program steps was increased to 999, unlike the PMC. When the step 999 is reached, the step counter will be set to 0.
 Two modes: АВТ (automatic) and ПРГ (programming)
@@ -444,10 +485,12 @@ In addition, for the small keyboard v2, it is possible to specify any executable
 For more details, see: Settings-Autocomplete-Words by default
 
 For example, 
+
 $[-502,Templates]: clicking on it will open templates; 
+
 $[32,Space]: clicking on it will enter a space.
 
-MACROS.
+#### MACROS.
 The keyboard supports 2 macros. 
 Briefly about what the macro is and why there are two of them, for example:
 We have a long text (about 3 MB). In the Russian text we need to replace all the "е" letters with the "ё" letter.
@@ -457,7 +500,7 @@ Macro1: macro2, macro2, macro2, macro2, macro2.
 As a result, when starting to execute the macro1, five "e" letters will be replaced at once. It reduces an enormous amount of time in large texts.
 To learn about the designation of the macro button, see below.
 
-ABBREVIATIONS USED IN THE KEYBOARD.
+#### ABBREVIATIONS USED IN THE KEYBOARD.
 The program is available all over the world, and the Portuguese will not understand what means "Коп" (copy). 
 But "Copy" he will understand (English is an international language, unlike Russian. For me, personally, it is very sad :( )
 As it is impossible to insert a whole word or phrases on the one button, the following abbreviations are used:
@@ -476,7 +519,7 @@ recM1(2) - recording of the macro 1 or 2
 runM1(2) - running of the macro 1 or 2
 clrM1(2) - cleaning the macro 1 and 2
 
-DATE FORMAT FOR SPECIAL INSTRUCTIONS $datetime:
+#### DATE FORMAT FOR SPECIAL INSTRUCTIONS $datetime:
 G - era ( AD and BC in English)
 y - year (4-digit number)
 Y - (android 7+) Week year (example: 2009; 09)
@@ -515,7 +558,7 @@ Z - time zone in RFC 822 format
  - escape character for text Date='
  - quotation mark o'clock
 
-4) CUSTOM LAYOUT AND SKIN EDITING AND CREATING. 
+### 4) CUSTOM LAYOUT AND SKIN EDITING AND CREATING. 
 
 HOW TO CHANGE LAYOUT OR SKIN.
 Layout change:
