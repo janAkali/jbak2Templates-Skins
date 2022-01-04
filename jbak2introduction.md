@@ -1,15 +1,22 @@
 This text is available in the item of Settings "How to use the keyboard"
+
 Visit the program site: https://jbak2.ucoz.net
+
 Comments and suggestions are welcome. E-MAIL: mwsoft@tut.by
 
-###Preface
+#### Preface
 This keyboard, basically, is a constructor that contains a large number of settings, allowing anyone to customize the keyboard behaviour, getting the most convenient option for use which meets all the user's needs.
+
 If you are not satisfied with the built-in layouts or skins (themes), you can create them yourself or you can modify existing ones. 
+
 By default, everything is set up according to Plug and Play principle. 
+
 Some, of course, will say, “Why so many settings? It can be much easier!” However, there is one nuance. After spending once a bit of time on customization,  you will get the most convenient keyboard with any conceivable functionality, which is limited only by your imagination.
+
 The principal exception is only the Swype function and predictive text input (T9), they only interfer with the keyboard, therefore these functions are not available and will never be.
 
 Developer's note:
+
 The developer suffered a severe stroke (see the conclusion) because of diabetes, so:
 
 1. I became very distracted after the stroke. The program is already extremely complicated, and very often I do one thing, but it stops working in a completely different place. I can not take everything into account. :(
@@ -24,15 +31,18 @@ The sooner I learn about a problem, the faster I can fix it.
 
 The developer also reads all the comments on Google Play.
 
-####WARNING.
+#### WARNING.
+
 THE APPLICATION IS DISTRIBUTED ON "AS IS" BASIS, AND FOR THIS REASON, THE DEVELOPER DOES NOT ACCEPT COMPLAINTS AND BUG REPORTS RELATED TO THE KEYBOARD WORK IN OPERA MINI, UC WEB AND ANY YANDEX APPLICATIONS WITHOUT EXPLANING THE REASON.
 
 TABLE OF CONTENTS:
-1)INSTALLATION INSTRUCTIONS AND INITIAL CONFIGURATION
+
+1) INSTALLATION INSTRUCTIONS AND INITIAL CONFIGURATION
 
 STRING OF CHARACTERS AND WORDS IN AUTOCOMPLETE BY DEFAULT
 
-2)FREQUENTLY ASKED QUESTIONS AND POSSIBLE PROBLEMS
+2) FREQUENTLY ASKED QUESTIONS AND POSSIBLE PROBLEMS
+
 Frequent questions
 ? Swype function and predictive text input
 ? Autocomplete string above all windows.
@@ -51,7 +61,8 @@ Other questions
 ? Paid version
 ? VOICE INPUT.
 
-3)KEYBOARD CONTROLS AND OTHER SETTINGS
+3) KEYBOARD CONTROLS AND OTHER SETTINGS
+
 - Main menu
 - Clipboard
 - Templates
@@ -72,7 +83,8 @@ Other questions
 - Abbreviations used in the keyboard
 - Date format for special instructions $datetime
 
-4)CUSTOM LAYOUT AND SKIN EDITING AND CREATING
+4) CUSTOM LAYOUT AND SKIN EDITING AND CREATING
+
 - HOW TO CHANGE LAYOUT OR SKIN
 - How to edit the built-in layout
 - Custom language creating (not presented in the program)
@@ -82,7 +94,7 @@ Other questions
 
 6) DEVELOPERS
 
-7)CONCLUSION
+7) CONCLUSION
 
 --------------------------------------------
 
