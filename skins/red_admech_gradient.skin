@@ -5,35 +5,35 @@
 //Фон клавиш
 //----------
 //Стартовый цвет градиента для фона клавиши
-KeyBackStartColor=0xff50514f
+KeyBackStartColor=0xffbf1b0f
 
 //Конечный цвет градиента.
-KeyBackEndColor=0xff50514f
+KeyBackEndColor=0xffdb6357
 
 //Тип градиента. 0 - линейный, 1 - радиальный
-KeyBackPressedGradientType=0
+KeyBackPressedGradientType=1
 
 //Стартовый цвет градиента для фона клавиши в нажатом состоянии.
-KeyBackPressedStartColor=0xff686868
+KeyBackPressedStartColor=0xff000000
 
 //Конечный цвет градиента для фона клавиши в нажатом состоянии.
-KeyBackPressedEndColor=0xff686868
+KeyBackPressedEndColor=0xff000000
 
 //Тип градиента клавиш в нажатом состоянии. 0 - линейный, 1 - радиальный
-KeyBackGradientType=0
+KeyBackGradientType=1
 
 
 //----------
 //Текст на клавишах
 //----------
 //Цвет текста (надписей и значков на клавишах)
-KeyTextColor=0xffffffff
+KeyTextColor=0xffffe6e6
 
 //Жирный шрифт (1) или нет (0). Если не задано - не жирный
 KeyTextBold=1
 
 //Цвет дополнительного символа
-KeySymbolColor=0xff78fecf
+KeySymbolColor=0xff4ab1e8
 
 //Цвет текста в нажатом состоянии
 KeyTextPressedColor=0xff00cc00
@@ -46,16 +46,16 @@ KeySymbolPressedColor=0xff00cc00
 //Обводка клавиш
 //----------
 //Стартовый цвет градиента для обводки клавиш.
-KeyStrokeStartColor=0xffe5eafa
+KeyStrokeStartColor=0xffa89797
 
 //Конечный цвет градиента для обводки клавиш.
-KeyStrokeEndColor=0xff555555
+KeyStrokeEndColor=0xff2e2221
 
 //Стартовый цвет градиента для обводки клавиш в нажатом состоянии.
-KeyPressedStrokeStartColor=0xff005050
+KeyPressedStrokeStartColor=0xffa89797
 
 //Конечный цвет градиента для обводки клавиш в нажатом состоянии.
-KeyPressedStrokeEndColor=0xff005050
+KeyPressedStrokeEndColor=0xff2e2221
 
 
 //----------
@@ -75,10 +75,10 @@ KeyboardBackgroundGradientType=0
 //Значения специальных клавиш (Shift, Backspace и др.).
 //----------
 //Цвет текста на кнопке
-SpecKeyTextColor=0xffffe066
+SpecKeyTextColor=0xfff2b200
 
 //Цвет дополнительного символа
-SpecKeySymbolColor=0xfff25f5c
+SpecKeySymbolColor=0xffffffff
 
 //Цвет текста в нажатом состоянии
 SpecKeyTextPressedColor=0xffffffff
@@ -87,16 +87,16 @@ SpecKeyTextPressedColor=0xffffffff
 SpecKeySymbolPressedColor=0xffff0000
 
 //Стартовый цвет градиента для фона клавиши
-SpecKeyBackStartColor=0xff50514f
+SpecKeyBackStartColor=0xffad4747
 
 //Конечный цвет градиента фона клавиш.
-SpecKeyBackEndColor=0xff50514f
+SpecKeyBackEndColor=0xff9c0000
 
 //Начальный цвет градиента для обводки клавиш.
-SpecKeyStrokeStartColor=0xffe5eafa
+SpecKeyStrokeStartColor=0xffe0a600
 
 //Конечный цвет градиента для обводки клавиш.
-SpecKeyStrokeEndColor=0xff555555
+SpecKeyStrokeEndColor=0xff000000
 
 //Стартовый цвет градиент для фона клавиши в нажатом состоянии.
 SpecKeyBackPressedStartColor=0xffff0000
@@ -108,10 +108,10 @@ SpecKeyBackPressedEndColor=0xff002020
 SpecKeyBackPressedGradientType=1
 
 //Стартовый цвет градиента для обводки клавиш в нажатом состоянии.
-SpecKeyPressedStrokeStartColor=0xff005050
+SpecKeyPressedStrokeStartColor=0xffffbd00
 
 //Конечный цвет градиента для обводки клавиш в нажатом состоянии.
-SpecKeyPressedStrokeEndColor=0xff005050
+SpecKeyPressedStrokeEndColor=0xffffbd00
 
 
 //----------
@@ -121,8 +121,8 @@ SpecKeyPressedStrokeEndColor=0xff005050
 KeyGapSize=5
 
 //Радиус скругления прямоугольника клавиши по оси X, если не задано - 9
-KeyBackCornerX=5
+KeyBackCornerX=9
 
 //Радиус скругления прямоугольника клавиши по оси Y, если не задано - 9
-KeyBackCornerY=10
+KeyBackCornerY=5
 
