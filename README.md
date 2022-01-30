@@ -1,7 +1,7 @@
 # jbak2Templates-Skins
 My custom templates and skins for jbak2 keyboard
 
-##Skins:
+## Skins:
 
 material_dark.skin
 ![](/images/material_dark.jpg)
@@ -16,7 +16,7 @@ red_admech_gradient.skin
 ![](/images/red_admech.jpg)
 
 
-##Templates:
+## Templates:
 
 en_linux_term.xml
 ![](/images/material_dark.jpg)
